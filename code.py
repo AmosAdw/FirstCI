@@ -7,6 +7,6 @@ choice=str(choice)
 if choice=="y":
     print("yes! Let's play")
 elif choice=="n":
-    print("Sh****t!")
+    print("Sh**t!")
 else:
     print("Enter y or n")
